@@ -70,7 +70,7 @@
 					</descriptorRefs>
 					<archive>
 						<manifest>
-							<mainClass>com.mobiquity.packer.Packer</mainClass>
+							<mainClass>com.mobiquityinc.packer.Packer</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
